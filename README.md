@@ -71,7 +71,6 @@ $ npm run dev
 ## Autor
 
 <div align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55336456?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
 <h1>Mateus Lima</h1>
 <strong>Backend Developer</strong>
 <br/>
@@ -82,7 +81,7 @@ $ npm run dev
 </a>
 
 <a href="https://github.com/MateusLima96" target="_blank">
-<img alt="GitHub" src="https://avatars.githubusercontent.com/u/29823372?v=4"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br/>
 <br/>

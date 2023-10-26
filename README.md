@@ -9,7 +9,7 @@
   <a href="#author">Author</a>  
 </p>
 
-## Sobre
+## About
 
 Project developed during the module II challenge of Rocketseat's Ignite bootcamp whose objective was to put into practice all the content taught during the module.
 
@@ -82,7 +82,7 @@ $ npm run dev
 </a>
 
 <a href="https://github.com/MateusLima96" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://avatars.githubusercontent.com/u/29823372?v=4"/>
 </a>
 <br/>
 <br/>

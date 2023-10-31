@@ -41,7 +41,6 @@ The purpose of this repository is to contain the API code for this application, 
 - [x] It must be possible to view a single meal.
 - [x] It must be possible to retrieve a user's metrics:
   - Total number of meals recorded
-  - Quantidade total de refeições dentro da dieta
   - Total number of meals within the diet
   - Best sequence of meals within the diet
 - [x] The user can only view, edit and delete the meals he created.

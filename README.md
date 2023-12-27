@@ -46,7 +46,7 @@ The purpose of this repository is to contain the API code for this application, 
 - [x] The user can only view, edit and delete the meals he created.
 
 
-## Instalação
+## Installation
 
 Before hand is necessary to have installed the following:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).

@@ -9,18 +9,12 @@
   <a href="#author">Author</a>  
 </p>
 
-## About
-
-Project developed during the module II challenge of Rocketseat's Ignite bootcamp whose objective was to put into practice all the content taught during the module.
-
 ## Daily Diet API
 
-The API proposed in this challenge has as its client an application created in React Native, which can be seen at the link below:
+The API has as its client an application created in React Native, which can be seen at the link below:
 
 [![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1218573349379609244)
 
-
-The purpose of this repository is to contain the API code for this application, putting all the content learned during the module into practice and complying with the rules below for the API:
 
 ### Application rules
 
